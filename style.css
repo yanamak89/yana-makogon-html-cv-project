@@ -1,0 +1,151 @@
+body {
+    font-family: "Inter", sans-serif;
+    background-color: #fdfcfb;
+    color: #2e2e2e;
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    line-height: 1.6;
+    
+}
+
+header, footer {
+    text-align: center;
+    mergin-bottom: 2rem;
+    
+}
+
+.intro-banner-with-photo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #e6f0ef;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05);
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.intro-banner-text {
+    flex: 1 1 60%;
+}
+
+.intro-banner-photo {
+    flex: 0 0 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.banner-photo-rect {
+    width: 140px;
+    height: auto;
+    border-radius: 6px;
+    object-fit: cover;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.12);
+}
+
+.banner-photo {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.intro-block {
+    background-color: #eef4f3;
+    padding: 1.5rem;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05);
+    margin-bottom: 1.5rem;
+}
+
+.name-heading {
+    font-size: 2.5rem;
+    color: #1e3a3a;
+    margin: 0 0 0.5rem;
+}
+
+.position-banner {
+    font-size: 1.1rem;
+    color: #234443;
+    margin: 0;
+}
+.contact-links {
+    text-align: center;
+    font-size: 1rem;
+    margin: 1rem 0 2rem;
+    color: #2f5d62;
+}
+
+.contact-links a {
+    color: #2f5d62;
+    font-weight: 500;
+    text-decoration: none;
+    border-bottom: 1px solid #b5d3cf;
+    margin: 0 0.4rem;
+    transition: all 0.2s ease;
+}
+
+.contact-links a:hover {
+    color: #1b3f3a;
+    border-bottom-color: #1b3f3a;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #1e3a3a;
+    margin-bottom: 0.25rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #3d5a5a;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.3rem;
+    margin-top: 2rem;
+}
+
+h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+
+p {
+    margin: 0.75rem 0;
+    font-size: 1rem;
+}
+
+ul, ol {
+    padding-left: 1.2rem;
+}
+
+address a {
+    margin: 0 0.5rem;
+    text-decoration: none;
+    color: #005f5f;
+}
+
+address a:hover {
+    text-decoration: underline;
+}
+
+a {
+    color: #005f5f;
+}
+
+footer {
+    margin-top: 3rem;
+    font-size: 0.9rem;
+    color: #888;
+}
+
+li {
+    margin-bottom: 0.5rem;
+
+}
