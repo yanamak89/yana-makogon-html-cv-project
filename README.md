@@ -56,3 +56,25 @@ The CV is live at:
 ---
 
 ## 📂 File structure
+📁 yana-makogon-html-cv-project
+├── index.html
+├── style.css
+├── Favicons/
+│   ├── favicon-16x16.png
+│   ├── favicon-32x32.png
+│   └── …
+├── yana.jpg
+├── .gitignore
+└── README.md
+
+---
+
+## 🙌 Feedback & Contributions
+
+Fork the repo, submit a PR, or open an issue if you’d like to collaborate or provide feedback.  
+Stars ⭐ and support are always appreciated.
+
+---
+
+© 2025 Yana Makogon
+
