@@ -74,12 +74,14 @@ yana-makogon-html-cv-project/
 
 ---
 
+
 ## 🙌 Feedback & Contributions
 
 Fork the repo, submit a PR, or open an issue if you’d like to collaborate or provide feedback.  
 Stars ⭐ and support are always appreciated.
 
 ---
+This project is part of the [roadmap.sh Single-Page CV Project](https://roadmap.sh/projects/single-page-cv), created **in the context of learning to become a Frontend Developer**.
 
 © 2025 Yana Makogon
 
