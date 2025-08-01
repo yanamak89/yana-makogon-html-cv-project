@@ -55,17 +55,22 @@ The CV is live at:
 
 ---
 
-## 📂 File structure
-📁 yana-makogon-html-cv-project
+## 📁 File structure
+
+```
+yana-makogon-html-cv-project/
 ├── index.html
 ├── style.css
-├── Favicons/
-│   ├── favicon-16x16.png
-│   ├── favicon-32x32.png
-│   └── …
-├── yana.jpg
+├── README.md
 ├── .gitignore
-└── README.md
+├── yana.jpg
+├── yana_2.jpeg
+├── yana_3.jpg
+└── Favicons/
+    ├── favicon-16x16.png
+    ├── favicon-32x32.png
+    └── ...
+```
 
 ---
 
